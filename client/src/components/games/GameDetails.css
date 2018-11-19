@@ -1,0 +1,21 @@
+.outer-paper {
+  margin-top: 20px;
+  margin: auto;
+  padding: 20px;
+  width: 100%;
+}
+
+main {
+  height: 620px;
+  width: relative;
+  background-repeat: no-repeat;
+  background-size:100%;
+}
+
+h1 {
+  color: whitesmoke
+}
+
+p {
+  color: whitesmoke
+}

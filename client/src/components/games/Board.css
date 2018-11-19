@@ -1,0 +1,5 @@
+.board-tile {
+  height: 50px;
+  width: 50px;
+  background-image: url('../images/grass.jpg');
+}
